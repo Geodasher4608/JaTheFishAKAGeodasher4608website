@@ -11,7 +11,7 @@
         <h2>Youtube channels</h2>
         <p>
         Geodasher4608: https://www.youtube.com/@Geodasher4608 JaTheFish: https://www.youtube.com/@JaTheFishVRGT The Cubes - Official: https://www.youtube.com/@TheCubes08
-        </h2>The Cubes - Official platformer sneak peaks
+        <h3>The Cubes - Official platformer sneak peaks
         (https://github.com/user-attachments/assets/19d53377-c4ad-4c94-9741-060fb5204578)
 
 
