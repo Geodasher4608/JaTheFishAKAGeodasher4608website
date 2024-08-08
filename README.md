@@ -13,3 +13,9 @@
         </p>
     </body>
 </html>
+@font-face {
+    font-family: 'OpenSans';
+    src: url('/OpenSansFonts/OpenSans-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
