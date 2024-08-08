@@ -9,8 +9,7 @@
         </p>
         <h2>Youtube channels</h2>
         <p>
-            Geodasher4608: https://www.youtube.com/@Geodasher4608 JaTheFish: https://www.youtube.com/@JaTheFishVRGT The Cubes - Official: https://www.youtube.com/@TheCubes08
+        <h2>Geodasher4608: https://www.youtube.com/@Geodasher4608 JaTheFish: https://www.youtube.com/@JaTheFishVRGT The Cubes - Official: https://www.youtube.com/@TheCubes08
         </p>
     </body>
-</head>
 </html>
