@@ -28,11 +28,5 @@
             The Cubes Official Platformer: <a href="https://scratch.mit.edu/projects/1004797129/" a>
                 The Cubes Official Platformer
             <p>
-            
-            (copy and paste)
-        <h3>The Cubes - Official platformer sneak peaks
-        <h1></h1> <a href="https://github.com/user-attachments/assets/19d53377-c4ad-4c94-9741-060fb5204578" a>
-        sneakpeek image
-    
-
-    
+        </body>
+</html>
