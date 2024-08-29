@@ -1,6 +1,7 @@
 
 <html>
     <h1>
+        <body style="background-color: #FF474C;">
         My Stuff
     </h1>
     <body>
